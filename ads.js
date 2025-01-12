@@ -1,1 +1,8 @@
-(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('groleegni.net',8761778,document.createElement('script'))
+ atOptions = {
+		'key' : 'c0e7ae62487c201244859c735cc89d8a',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/c0e7ae62487c201244859c735cc89d8a/invoke.js"></scr' + 'ipt>');
